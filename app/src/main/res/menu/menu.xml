@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/btn_circle"
+        android:title="@string/circle" />
+
+    <item android:id="@+id/btn_rectangle"
+        android:title="@string/rectangle" />
+
+    <item android:id="@+id/btn_square"
+        android:title="@string/square" />
+
+    <item android:id="@+id/btn_triangle"
+        android:title="@string/triangle" />
+
+</menu>

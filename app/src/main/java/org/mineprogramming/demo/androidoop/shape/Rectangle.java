@@ -6,7 +6,7 @@ import android.graphics.Paint;
 
 public class Rectangle extends Shape {
     private float width, height;
-    private Paint paint;
+    protected Paint paint;
 
     public Rectangle(float x, float y, float width, float height) {
         super(x, y);
